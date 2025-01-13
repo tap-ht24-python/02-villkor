@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2c2acb4-0200-44e8-8090-ea8b6aa4116f" name="Changes" comment="Initial settings">
-      <change beforePath="$PROJECT_DIR$/.idea/02-villkor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/02-villkor.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="b2c2acb4-0200-44e8-8090-ea8b6aa4116f" name="Changes" comment="Uppgift 2">
+      <change beforePath="$PROJECT_DIR$/veckouppgift.py" beforeDir="false" afterPath="$PROJECT_DIR$/veckouppgift.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "lejonmanen"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/tap-ht24-python/02-villkor.git",
+    "accountId": "59138c49-4529-48c2-ab6e-dc50445cc33d"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "associatedIndex": 5
 }]]></component>
@@ -33,7 +47,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Python.main.executor": "Run",
+    "Python.veckouppgift.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "main"
   }
 }]]></component>
@@ -53,11 +71,27 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1736770964540</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Hello">
+      <option name="closed" value="true" />
+      <created>1736771199612</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1736771199612</updated>
+    </task>
+    <task id="LOCAL−00003" summary="Uppgift 2">
+      <option name="closed" value="true" />
+      <created>1736772644330</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1736772644331</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial settings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial settings" />
+    <MESSAGE value="Hello" />
+    <MESSAGE value="Uppgift 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppgift 2" />
   </component>
 </project>
