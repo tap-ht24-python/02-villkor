@@ -1,13 +1,14 @@
-account_balance = 0
+account_balance = 200
 #greater_than_zero = account_balance > 0
 #print(greater_than_zero)
 
-if account_balance > 0:
+if account_balance > 0:   # alternativ:  not (account_balance <= 0)
     # block i Python ska alltid vara indenterade
     print("Du har pengar på kontot: " + str(account_balance))
+    if 10 < account_balance < 100:
+        print("Du har vunnit en brödrost!")
 
 print("Nu tar banken semester...")
-
 
 
 #print(1 == 1)    # True, samma värde
