@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b2c2acb4-0200-44e8-8090-ea8b6aa4116f" name="Changes" comment="Uppgift 2">
-      <change afterPath="$PROJECT_DIR$/veckouppgift/ticket_price.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/veckouppgift/winter_clothes.py" afterDir="false" />
+    <list default="true" id="b2c2acb4-0200-44e8-8090-ea8b6aa4116f" name="Changes" comment="Uppgift 3, vinterkläder">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/veckouppgift.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,13 +100,21 @@
       <option name="presentableId" value="LOCAL−00004" />
       <updated>1736773200721</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL−00005" summary="Uppgift 3, vinterkläder">
+      <option name="closed" value="true" />
+      <created>1736775697291</created>
+      <option name="number" value="LOCAL−00005" />
+      <option name="presentableId" value="LOCAL−00005" />
+      <updated>1736775697291</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial settings" />
     <MESSAGE value="Hello" />
     <MESSAGE value="Uppgift 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Uppgift 2" />
+    <MESSAGE value="Uppgift 3, vinterkläder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Uppgift 3, vinterkläder" />
   </component>
 </project>
