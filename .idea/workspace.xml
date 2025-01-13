@@ -1,11 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b2c2acb4-0200-44e8-8090-ea8b6aa4116f" name="Changes" comment="" />
+    <list default="true" id="b2c2acb4-0200-44e8-8090-ea8b6aa4116f" name="Changes" comment="Initial settings">
+      <change beforePath="$PROJECT_DIR$/.idea/02-villkor.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/02-villkor.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -14,7 +24,9 @@
   "associatedIndex": 5
 }]]></component>
   <component name="ProjectId" id="2rZeBQ3mnf3bqemSjMmy3r1GPKS" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -34,6 +46,18 @@
       <option name="presentableId" value="Default" />
       <updated>1736770888368</updated>
     </task>
+    <task id="LOCAL−00001" summary="Initial settings">
+      <option name="closed" value="true" />
+      <created>1736770964540</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1736770964540</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial settings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial settings" />
   </component>
 </project>
